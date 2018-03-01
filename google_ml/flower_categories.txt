@@ -1,0 +1,13 @@
+rose
+Alstroemeria
+Amaranthus
+Amaryllis
+Anemone
+Anthurium
+Gerbera
+Hydrangea
+Hypericum
+Iris
+Lily
+Tulip
+Orchid
